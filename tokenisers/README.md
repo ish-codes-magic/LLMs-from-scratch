@@ -25,3 +25,23 @@ An example of token mappings to IDs may look like:
 > [1996, 4248, 2829, 4419, 5598, 2058, 1996, 13971]
 
 Overall, Tokenisation is a crucial step for training a language model because it determines a model’s vocabulary. A language model needs to “know” how to process its input and what kinds of things it’s supposed to predict.
+
+# Word-level vs character-level tokens
+
+
+# Types of tokenisation
+
+1. Naive Tokenization
+2. Stemming and Lemmatization
+3. Byte-Pair Encoding (BPE)
+4. WordPiece
+5. SentencePiece and Unigram
+
+
+
+# References
+
+1. <https://seantrott.substack.com/p/tokenization-in-large-language-models>
+2. <https://www.ai21.com/knowledge/tokenization/>
+3. <https://machinelearningmastery.com/tokenizers-in-language-models/>
+4. <https://docs.mistral.ai/guides/tokenization/>
